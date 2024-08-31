@@ -12,7 +12,7 @@ Clone the project
   git clone https://github.com/Salzstange-app/AirPods-Connector-Linux.git
 ```
 
-Install dependencies
+Start It
 
 ```bash
   sudo ./start.sh
